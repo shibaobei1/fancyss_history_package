@@ -1,0 +1,2 @@
+# fancyss_history_package
+科学上网插件的离线安装包储存在这里
